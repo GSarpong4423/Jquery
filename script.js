@@ -1,7 +1,7 @@
-$(document).ready(function(){
+// $("header nav li:first").css({border: "2px solid red"});
+// $("header nav li:first").css({border: "2px solid red"});
 
-    $("#burger-nav").on("click", function(){
-    
-        $("header nav ul").toggleClass("open");
-        
-    });
+// first-child and last-child
+$("#contact ul:first").css({border: "2px solid red"});
+$("#contact ul:first").css({border: "2px solid red"});
+
